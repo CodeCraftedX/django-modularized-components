@@ -53,7 +53,7 @@ dev = [
     "tox",
     "pytest",
     "pytest-django",
-    "pytest-asyncio==1.4.1",
+    "pytest-asyncio==1.4.1.post1",
     "syrupy",
     "ruff",
     "pre-commit",
